@@ -1,4 +1,4 @@
-import fitz  # PyMuPDF
+import fitz  # PyMuPDF #
 
 pdf_path = "example.pdf"
 doc = fitz.open(pdf_path)
